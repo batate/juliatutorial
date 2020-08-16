@@ -28,7 +28,7 @@ Ternary operator is supported as `a ? b : c` \(if `a` is true, then `b`, else `c
 
 Not to be confused with the bitwise operators `&` and `|`.
 
-Currently `and` and `or` aliases to  respectively `&&` and `||`has not being imlemented.
+Currently `and` and `or` aliases to `&&` and `||` respectively have not been imlemented.
 
 ## Do blocks
 
